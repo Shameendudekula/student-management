@@ -2,7 +2,7 @@
 
 A full-stack CRUD web application for managing student records: add, view, search, update and delete students through a clean, responsive dashboard. Built with **Node.js, Express, MongoDB (Mongoose)** and a **plain HTML/CSS/JavaScript** frontend.
 
-🔗 **Live demo:** _coming soon (Render)_
+🔗 **Live demo:** https://student-management-3ihp.onrender.com (free Render instance – the first request after inactivity can take ~50 seconds)
 💻 **Source:** https://github.com/Shameendudekula/student-management
 
 ---
@@ -194,7 +194,7 @@ npm test
 
 17 automated API tests cover every endpoint, including validation errors, duplicates (409), malformed ids, pagination with no repeats or gaps, search escaping and statistics. The tests run against a temporary in-memory MongoDB.
 
-The UI was also tested end-to-end in Chrome at desktop (1280px) and mobile (375px) widths: listing, pagination, search, filters, add, duplicate handling, view, edit, delete with confirmation, and HTML escaping.
+The UI was also tested end-to-end in Chrome at desktop (1280px) and mobile (375px) widths, locally and on the live Render deployment: listing, pagination, search, filters, add, duplicate handling, view, edit, delete with confirmation, and HTML escaping.
 
 ---
 
