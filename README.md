@@ -5,6 +5,8 @@ A full-stack CRUD web application for managing student records: add, view, searc
 🔗 **Live demo:** https://student-management-3ihp.onrender.com (free Render instance – the first request after inactivity can take ~50 seconds)
 💻 **Source:** https://github.com/Shameendudekula/student-management
 
+🔓 **No login needed.** The live demo opens straight on the dashboard with 14 sample students.
+
 ---
 
 ## ✨ Features
@@ -217,16 +219,13 @@ The UI was also tested end-to-end in Chrome at desktop (1280px) and mobile (375p
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon._
+Screenshots from the live site (desktop 1280px, mobile 375px).
 
-| View | Screenshot |
-|------|-----------|
-| Dashboard (desktop) | `![Dashboard](screenshots/dashboard.png)` |
-| Add / edit form | `![Form](screenshots/form.png)` |
-| Validation errors | `![Validation](screenshots/validation.png)` |
-| Student details | `![Details](screenshots/details.png)` |
-| Delete confirmation | `![Delete](screenshots/delete.png)` |
-| Mobile view | `![Mobile](screenshots/mobile.png)` |
+<table>
+<tr><td align="center" valign="top"><b>Dashboard (desktop)</b><br><img src="screenshots/dashboard.png" alt="Dashboard (desktop)" width="100%"></td><td align="center" valign="top"><b>Add / edit form</b><br><img src="screenshots/form.png" alt="Add / edit form" width="100%"></td></tr>
+<tr><td align="center" valign="top"><b>Validation errors</b><br><img src="screenshots/validation.png" alt="Validation errors" width="100%"></td><td align="center" valign="top"><b>Student details</b><br><img src="screenshots/details.png" alt="Student details" width="100%"></td></tr>
+<tr><td align="center" valign="top"><b>Delete confirmation</b><br><img src="screenshots/delete.png" alt="Delete confirmation" width="100%"></td><td align="center" valign="top"><b>Mobile view</b><br><img src="screenshots/mobile.png" alt="Mobile view" width="260"></td></tr>
+</table>
 
 ---
 
