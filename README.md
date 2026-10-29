@@ -219,12 +219,13 @@ The UI was also tested end-to-end in Chrome at desktop (1280px) and mobile (375p
 
 ## 📸 Screenshots
 
-Screenshots from the live site (desktop 1280px, mobile 375px).
+Screenshots taken from the live site (desktop 1280px, mobile 375px).
 
 <table>
-<tr><td align="center" valign="top"><b>Dashboard (desktop)</b><br><img src="screenshots/dashboard.png" alt="Dashboard (desktop)" width="100%"></td><td align="center" valign="top"><b>Add / edit form</b><br><img src="screenshots/form.png" alt="Add / edit form" width="100%"></td></tr>
-<tr><td align="center" valign="top"><b>Validation errors</b><br><img src="screenshots/validation.png" alt="Validation errors" width="100%"></td><td align="center" valign="top"><b>Student details</b><br><img src="screenshots/details.png" alt="Student details" width="100%"></td></tr>
-<tr><td align="center" valign="top"><b>Delete confirmation</b><br><img src="screenshots/delete.png" alt="Delete confirmation" width="100%"></td><td align="center" valign="top"><b>Mobile view</b><br><img src="screenshots/mobile.png" alt="Mobile view" width="260"></td></tr>
+<tr><td align="center" valign="top" width="50%"><b>Dashboard with students</b><br><img src="screenshots/dashboard.png" alt="Dashboard with students" width="100%"></td><td align="center" valign="top" width="50%"><b>Search result</b><br><img src="screenshots/search.png" alt="Search result" width="100%"></td></tr>
+<tr><td align="center" valign="top" width="50%"><b>Add student</b><br><img src="screenshots/form.png" alt="Add student" width="100%"></td><td align="center" valign="top" width="50%"><b>Edit student</b><br><img src="screenshots/edit.png" alt="Edit student" width="100%"></td></tr>
+<tr><td align="center" valign="top" width="50%"><b>Validation errors</b><br><img src="screenshots/validation.png" alt="Validation errors" width="100%"></td><td align="center" valign="top" width="50%"><b>Student details</b><br><img src="screenshots/details.png" alt="Student details" width="100%"></td></tr>
+<tr><td align="center" valign="top" width="50%"><b>Delete confirmation</b><br><img src="screenshots/delete.png" alt="Delete confirmation" width="100%"></td><td align="center" valign="top" width="50%"><b>Mobile (375px)</b><br><img src="screenshots/mobile.png" alt="Mobile (375px)" width="260"></td></tr>
 </table>
 
 ---
